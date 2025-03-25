@@ -1,0 +1,23 @@
+{
+  "name": "ai-video-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "google-translate-tts": "^0.4.0-dev",
+    "gtts": "^0.2.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.4.0"
+  },
+  "description": ""
+}
